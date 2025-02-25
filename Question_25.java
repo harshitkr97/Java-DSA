@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class Question_25 {
+
+    // pre calculating the horizontal sum for each row in the matrix 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
